@@ -3,4 +3,6 @@ this is very important
 this fixes the website problem
 we need to do this also to issue 53
 
+This is a new feature, I just need to do this thing
+
 here is a footer
